@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.cardview.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    app:cardCornerRadius="5dp"
+    android:elevation="5dp"
+    app:cardUseCompatPadding="true">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:padding="15dp">
+
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal">
+
+            <androidx.appcompat.widget.LinearLayoutCompat
+                    android:layout_width="211dp"
+                    android:layout_height="111dp"
+                    android:orientation="vertical">
+
+                <TextView
+                        android:id="@+id/nametext"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:text="This is Name"
+                        android:textColor="#000" />
+
+                <TextView
+                        android:id="@+id/phonetext"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:text="This is Phone"
+                        android:textColor="#000" />
+
+                <TextView
+                        android:id="@+id/longitudetext"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:text="This is Longitude"
+                        android:textColor="#000" />
+
+                <TextView
+                        android:id="@+id/latitudetext"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:text="This is Latitude"
+                        android:textColor="#000" />
+
+            </androidx.appcompat.widget.LinearLayoutCompat>
+
+            <LinearLayout
+                    android:layout_width="151dp"
+                    android:layout_height="wrap_content"
+                    android:orientation="vertical">
+
+                <Button
+                    android:id="@+id/editicon"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:background="@color/teal_200"
+                    android:text="Edit" />
+
+                <Button
+                    android:id="@+id/deleteicon"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:background="#F44336"
+                    android:text="delete" />
+
+            </LinearLayout>
+
+        </LinearLayout>
+
+    </LinearLayout>
+
+
+
+</androidx.cardview.widget.CardView>

@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "769612279270",
+    "project_id": "sliit-mad",
+    "storage_bucket": "sliit-mad.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:769612279270:android:cef6d1fc19eb16e594fa27",
+        "android_client_info": {
+          "package_name": "com.sliit.mad"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "769612279270-2tqfiv8ge6cig6pceoah86v22hla0l60.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBbyzIQpFm4Uo4PeNDMQll3DdPpxTVCzbo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "769612279270-2tqfiv8ge6cig6pceoah86v22hla0l60.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
