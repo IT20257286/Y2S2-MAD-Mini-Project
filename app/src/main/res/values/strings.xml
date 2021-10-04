@@ -1,29 +1,3 @@
 <resources>
     <string name="app_name">Car Service App</string>
-    <string name="Booknow">Book Now</string>
-    <string name="name">Owner Name</string>
-    <string name="model">Car Model</string>
-    <string name="no">Car No</string>
-    <string name="phone">Phone No</string>
-    <string name="btn1">Book Now</string>
-    <string name="btn2">Full Service Packages</string>
-    <string name="btn3">Car Wash and Cleaning</string>
-    <string name="btn4">Break Maintainance</string>
-    <string name="btn8">Back</string>
-    <string name="btn10">Next</string>
-    <string name="btn11">Back</string>
-    <string name="Auto">AUTO MIRAJ</string>
-    <string name="wow">A \'\'\'WOW\' EXPERIENCE AWAITS YOU HERE !</string>
-    <string name="pack">"
-        Oil 5W30 (Free Promotion) \n
-        Oil Filter\n
-        All Fluids Top-Up \n
-        360-degree Health Check \n
-        Reset car service Light \n
-        AC Checkup \n
-        Brake Check \n
-        Car Wash \n
-        AC Filter Replacement (Labour)"</string>
-    <string name="price">Rs 22000 /=</string>
-    <string name="btn12">Book Now</string>
 </resources>
