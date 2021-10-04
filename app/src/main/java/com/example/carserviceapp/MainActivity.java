@@ -20,7 +20,7 @@ public class MainActivity extends AppCompatActivity {
     DatabaseReference dbRef;
     VehicleNote vNote;
 
-
+    //button to go to next activity
     public Button button;
     @Override
     protected void onCreate(Bundle savedInstanceState) {
