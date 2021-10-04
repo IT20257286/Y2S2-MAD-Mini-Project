@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "715724092921",
+    "firebase_url": "https://vehiclenotes-default-rtdb.firebaseio.com",
+    "project_id": "vehiclenotes",
+    "storage_bucket": "vehiclenotes.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:715724092921:android:b57766b61cc4bde88cb928",
+        "android_client_info": {
+          "package_name": "com.example.carserviceapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "715724092921-b6k9i68qfv10mbq9mgnvpfcdbjskja4g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDUqjr0Xb8CUOn7ruPTVUwTT2EKSNipreg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "715724092921-b6k9i68qfv10mbq9mgnvpfcdbjskja4g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
