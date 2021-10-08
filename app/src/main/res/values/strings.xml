@@ -1,17 +1,9 @@
 <resources>
     <string name="app_name">Car Service App</string>
-    <string name="Booknow">Book Now</string>
-    <string name="name">Owner Name</string>
-    <string name="model">Car Model</string>
-    <string name="no">Car No</string>
-    <string name="phone">Phone No</string>
     <string name="btn1">Book Now</string>
     <string name="btn2">Full Service Packages</string>
     <string name="btn3">Car Wash and Cleaning</string>
-    <string name="btn4">Break Maintainance</string>
-    <string name="btn8">Back</string>
     <string name="btn10">Next</string>
-    <string name="btn11">Back</string>
     <string name="Auto">AUTO MIRAJ</string>
     <string name="wow">A \'\'\'WOW\' EXPERIENCE AWAITS YOU HERE !</string>
     <string name="pack">"
@@ -26,4 +18,33 @@
         AC Filter Replacement (Labour)"</string>
     <string name="price">Rs 22000 /=</string>
     <string name="btn12">Book Now</string>
+    <string name="signin">Sign In</string>
+    <string name="username">Username</string>
+    <string name="user" />
+    <string name="password">Password</string>
+    <string name="pass" />
+    <string name="btnl1">Login</string>
+    <string name="register">Register Now!</string>
+    <string name="uname">Company name</string>
+    <string name="emailr">Email</string>
+    <string name="phoner">Phone No</string>
+    <string name="cpassr">Confirm Password</string>
+    <string name="button">Sign Up</string>
+    <string name="btn4">Break Maintainance</string>
+    <string name="bookN">Book Now</string>
+    <string name="owner">Owner Name</string>
+    <string name="model">Car Model</string>
+    <string name="carNo">Car No</string>
+    <string name="phoneO">Phone No</string>
+    <string name="book2">Book Now</string>
+    <string name="button6">Login</string>
+    <string name="already">Already have an account?</string>
+    <string name="button2">As a Company</string>
+    <string name="button5">As a User</string>
+    <string name="uname2">Username</string>
+    <string name="email">Username</string>
+    <string name="date">Date</string>
+    <string name="button7">Pick the date</string>
+    <string name="cname">Username</string>
+    <string name="textView13">"We are Sri Lanka's best online vehicle service booking platform"</string>
 </resources>

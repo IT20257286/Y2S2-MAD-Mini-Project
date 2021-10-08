@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "335043053307",
+    "firebase_url": "https://car-service-app-97493-default-rtdb.firebaseio.com",
+    "project_id": "car-service-app-97493",
+    "storage_bucket": "car-service-app-97493.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:335043053307:android:9e4e51281ceda5b271925e",
+        "android_client_info": {
+          "package_name": "com.example.carserviceapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "335043053307-cobbf2val98e5ol0bph2hf8i0rrtjtc7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyARvIaED6disK42aeJTzQMCyKErhHZx_uA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "335043053307-cobbf2val98e5ol0bph2hf8i0rrtjtc7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -2,6 +2,8 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="com.example.carserviceapp">
 
+    <uses-permission android:name="android.permission.INTERNET" />
+
     <application
         android:allowBackup="true"
         android:icon="@mipmap/ic_launcher"
@@ -10,7 +12,55 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.CarServiceApp">
         <activity
-            android:name=".MainActivity"
+            android:name=".CustomerList"
+            android:exported="true" />
+        <activity
+            android:name=".CutomerList"
+            android:exported="true" />
+        <activity
+            android:name=".CustomerPList"
+            android:exported="true" />
+        <activity
+            android:name=".CustomerPackageList"
+            android:exported="true" />
+        <activity
+            android:name=".LoginC"
+            android:exported="true" />
+        <activity
+            android:name=".LoginCompany"
+            android:exported="true" />
+        <activity
+            android:name=".PackagesUsers"
+            android:exported="true" />
+        <activity
+            android:name=".Home"
+            android:exported="true" />
+        <activity
+            android:name=".PackageList"
+            android:exported="true" />
+        <activity
+            android:name=".PackagesForm"
+            android:exported="true" />
+        <activity
+            android:name=".BookNow"
+            android:exported="true" />
+        <activity
+            android:name=".Registration"
+            android:exported="true" />
+        <activity
+            android:name=".Login"
+            android:exported="true" />
+        <activity
+            android:name=".Service"
+            android:exported="true" />
+        <activity
+            android:name=".AutoMiraj"
+            android:exported="true" />
+        <activity
+            android:name=".Packages"
+            android:exported="true" />
+        <activity
+            android:name=".Main"
             android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
