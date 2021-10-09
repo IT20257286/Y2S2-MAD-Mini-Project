@@ -22,8 +22,8 @@ public class Indicators extends AppCompatActivity {
         buttonW.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
-                Intent intent = new Intent(Indicators.this,Warning.class);
-                startActivity(intent);
+                /*Intent intent = new Intent(Indicators.this,Warning.class);
+                startActivity(intent);*/
             }
         });
 
